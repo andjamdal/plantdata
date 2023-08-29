@@ -1,0 +1,201 @@
+﻿ID,Name,Type,Ground Cover,Motorway,Hedging,Wet,Dry,Coastal,Exposed,Poor soil,Native,Evergreen,Border_H,Specimen_H,Shade,Street_T,Specimen_T,Lime_T,Score
+,Amelanchier canadensis,Shrub,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,Aucuba japonica 'Crotonifolia',Shrub,0,0,0,1,1,1,0,1,0,1,0,0,0,0,0,0,5
+,Berberis darwinii & other species,Shrub,1,1,1,0,1,0,1,1,0,1,0,0,0,0,0,0,7
+,Berberis thunbergii 'Nana',Shrub,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3
+,Berberis thunbergii,Shrub,1,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,6
+,Brachyglottis 'Sunshine',Shrub,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,4
+,Buxus sempervirens,Shrub,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,3
+,Buxus sempervirens 'Suffruticosa',Shrub,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,4
+,Caryopteris clandonensis,Shrub,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,Ceanothus 'Blue Mound',Shrub,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,3
+,Ceonothus thyrsiflorus repens,Shrub,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,3
+,Ceratostigma willmottianum,Shrub,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,Choisya 'Aztec Pearl',Shrub,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,2
+,Choisya ternata,Shrub,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,2
+,Choisya ternata 'Sundance',Shrub,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,2
+,Cistus 'Silver Pink',Shrub,1,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,5
+,Cornus alba & cultivars,Shrub,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,4
+,Cornus sanguinea 'Mid Winter Fire',Shrub,0,1,1,1,0,0,1,1,1,0,0,0,0,0,0,0,6
+,Cornus stolonifera 'Flaviramea',Shrub,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,4
+,Corylus avellana,Shrub,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,3
+,Cotinus coggygria  'Royal Purple',Shrub,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,Cotoneaster conspicuus  'Decorus',Shrub,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+,Cotoneaster dammeri,Shrub,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+,Cotoneaster franchetii,Shrub,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+,Cotoneaster horizontalis,Shrub,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+,Cotoneaster microphyllus,Shrub,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+,Cotoneaster simonsii,Shrub,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+,Cotoneaster  suecicus 'Skogholm',Shrub,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+,Cytisus praecox 'Allgold',Shrub,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,3
+,Eleagnus x ebbingei,Shrub,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,2
+,Eleagnus pungens 'Maculata',Shrub,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,2
+,Escallonia 'Apple Blossom',Shrub,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,3
+,Escallonia 'Red Elf',Shrub,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,3
+,Escallonia rubra 'Crimson Spire',Shrub,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,3
+,Euonymus fortunei 'Emerald Gaiety',Shrub,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,4
+,Euonymus fortunei 'Emerald 'n' Gold',Shrub,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,4
+,Genista lydia,Shrub,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,4
+,Griselina littoralis,Shrub,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,3
+,Hebe albicans,Shrub,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,4
+,Hebe albicans 'Red Edge',Shrub,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,4
+,Hebe 'Autumn Glory',Shrub,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,3
+,Hebe 'Mrs Winder',Shrub,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,3
+,Hebe pinguifolia 'Pagei',Shrub,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,4
+,Hebe rakaiensis,Shrub,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,4
+,Hebe vernicosa,Shrub,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,4
+,Hedera colchica 'Dentata Variegata',Shrub,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,3
+,Hedera helix,Shrub,1,1,0,0,1,0,0,1,1,1,0,0,0,0,0,0,6
+,Hedera helix 'Green Ripple',Shrub,1,1,0,0,1,0,0,1,1,1,0,0,0,0,0,0,6
+,Hedera helix 'Hibernica',Shrub,1,1,0,0,1,0,0,1,1,1,0,0,0,0,0,0,6
+,Hypericum calycinum,Shrub,1,1,0,1,1,1,0,0,1,1,0,0,0,0,0,0,7
+,Hypericum 'Hidcote',Shrub,0,1,1,1,1,1,0,0,0,1,0,0,0,0,0,0,6
+,Hypericum moserianum,Shrub,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,4
+,Ilex aquifolium,Shrub,0,1,1,0,1,1,0,0,1,1,0,0,0,0,0,0,6
+,Ilex aquifolium 'J C Van Tol',Shrub,0,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,5
+,Juniperus cvs eg 'Blue Carpet',Shrub,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,2
+,Lavandula angustilolia 'Hidcote',Shrub,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,4
+,Lavandula angustifolia,Shrub,1,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,5
+,Lavandula angustifolia ''Munstead',Shrub,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,4
+,Lavandula stoechas 'Pedunculata',Shrub,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,4
+,Ligustrum ovalifolium 'Aureum',Shrub,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,4
+,Lonicera nitida 'Baggesen's Gold',Shrub,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,4
+,Lonicera nitida 'Maigrun',Shrub,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,5
+,Lonicera pileata,Shrub,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,5
+,Mahonia aquifolium,Shrub,1,1,1,0,1,0,0,1,0,1,0,0,0,0,0,0,6
+,Mahonia japonica,Shrub,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,4
+,Mahonia x media 'Charity',Shrub,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,4
+,Olearia hastii,Shrub,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,2
+,Olearia macrodonta,Shrub,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,2
+,Osmanthus burkwoodii,Shrub,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,2
+,Pachysandra terminalis,Shrub,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,3
+,Perovskia atriplicifolia 'Blue Spire',Shrub,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,4
+,Philadelphus 'Belle Etoile',Shrub,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,Philadelphus coronarius 'Aureus',Shrub,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,Phormium tenax 'Purpureum',Shrub,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,2
+,Photinia x fraseri 'Red Robin',Shrub,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,3
+,Potentilla fruticosa & cultivars,Shrub,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+,Prunus laurocerasus & cultivars,Shrub,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,5
+,Prunus lusitanica,Shrub,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,4
+,Pyracantha coccinea & cultivars,Shrub,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,4
+,Ribes sanguineum & cultivars,Shrub,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,Rosa rugosa,Shrub,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,3
+,Rosmarinus officinalis  'Miss Jessopp's Upright',Shrub,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,3
+,Rubus 'Betty Ashburner',Shrub,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,3
+,Rubus tricolor,Shrub,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,4
+,Sambucus nigra 'Aurea',Shrub,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2
+,Santolina chamaecyparissus,Shrub,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,3
+,Sarcococca confusa,Shrub,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+,Skimmia japonica 'Rubella',Shrub,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+,Spiraea arguta,Shrub,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,Spiraea japonica 'Firelight',Shrub,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+,Spiraea 'Goldflame',Shrub,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+,Symphoricarpos chenaultii 'Hancock',Shrub,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2
+,Ulex europaeu,Shrub,0,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,6
+,Viburnum davidii,Shrub,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2
+,Viburnum opulus,Shrub,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2
+,Viburnum tinus and cultivars,Shrub,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,3
+,Vinca major 'Variegata',Shrub,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2
+,Vinca minor alba,Shrub,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2
+,Vinca minor 'Argenteovariegata',Shrub,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2
+,Weigela florida 'Variegata',Shrub,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,Acanthus spinosus,Perennial,1,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0,6
+,Achillia millefolium 'Gold Plate',Perennial,0,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,4
+,Ajuga reptans & varieties,Perennial,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,3
+,Alchemilla mollis,Perennial,1,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,5
+,Allium sp,Perennial,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,3
+,Anemanthele lessonia,Perennial,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,3
+,Anemone hybrida 'Honorine Jobert',Perennial,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,3
+,Artemisia 'Powis Castle',Perennial,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2
+,Asters sp,Perennial,0,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0,5
+,Astrantia major,Perennial,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,4
+,Bergenia cordifolia & varieties,Perennial,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,3
+,Calamagrostis acutiflora 'Karl Foerster',Perennial,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+,Carex oshimensis 'Evergold',Perennial,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2
+,Crocosmia Lucifer,Perennial,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,3
+,Digitalis purpurea,Perennial,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,3
+,Dryopteris felix-mas,Perennial,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,2
+,Echinacea purpurea,Perennial,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,3
+,Euphorbia amygdaloides 'Purpurea',Perennial,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,3
+,Euphorbia amygdaloides 'Robbiae',Perennial,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,4
+,Euphorbia griffithii 'Fireglow',Perennial,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,3
+,Euphorbia martinii,Perennial,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,3
+,Euphorbia wulfenii,Perennial,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,3
+,Fargesia murieliae 'Simba',Grass,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2
+,Festuca glauca & varieties,Perennial,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,3
+,Filipendula ulmaria,Perennial,1,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,5
+,Geranium endressii 'Wargrave Pink',Perennial,1,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,5
+,Geranium macrorrhizum,Perennial,1,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,5
+,Helleborus orientalis,Perennial,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,3
+,Hemerocallis Stella de Oro',Perennial,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,3
+,Heuchera micrantha 'Palace Purple',Perennial,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,4
+,Hosta sp & cultivars,Perennial,1,0,0,1,1,0,1,0,0,0,1,1,1,0,0,0,7
+,Iris foetidissima,Perennial,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,3
+,Iris pallida 'Argentea Variegata',Perennial,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,2
+,Lamium maculatum 'Beacon Silver',Perennial,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2
+,Liriope muscari,Perennial,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2
+,Miscanthus sinensis 'Gracillimus',Grass,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,2
+,Nepeta faassenii,Perennial,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,3
+,Polystichum setiferum,Perennial,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,2
+,Primula vulgaris,Perennial,1,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,5
+,Pseudosasa japonica,Perennial,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+,Rudbeckia fulgida Goldsturm,Perennial,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2
+,Salvia officinalis 'Purpurascens',Perennial,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2
+,Salvia officinalis 'East Friesland',Perennial,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2
+,Sasa palmata,Perennial,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,3
+,Sedum 'Autumn Joy',Perennial,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,4
+,Stachys byzantina,Perennial,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,4
+,Stipa gigantea,Grass,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,3
+,Stipa tenuissima,Grass,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,3
+,Tellima grandiflora,Perennial,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,4
+,Tiarella cordifolia,Perennial,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,4
+,Acer campestre,Tree,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,6
+,Acer platanoides,Tree,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,4
+,Acer platanoides 'Crimson King',Tree,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,4
+,Acer platanoides 'Emerald Queen',Tree,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,4
+,Acer pseudoplatanus 'Erectum',Tree,0,0,0,1,1,1,1,1,0,0,0,0,0,0,1,0,6
+,Aesculus hippocastanum 'Baumannii',Tree,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2
+,Alnus cordata,Tree,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,1,5
+,Alnus glutinosa,Tree,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,1,5
+,Alnus incana,Tree,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,1,5
+,Betula pendula,Tree,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,4
+,Betula utilis jacquemontii,Tree,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,3
+,Carpinus betulus,Tree,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,3
+,Carpinus betulus 'Fastigiata',Tree,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,3
+,Castanea sativa,Tree,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+,Corylus avellana,Tree,0,1,1,1,1,0,0,1,1,0,0,0,0,0,0,0,6
+,Corylus colurna,Tree,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2
+,Crataegus laevigata 'Paul's Scarlet',Tree,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,4
+,Crataegus monogyna,Tree,0,1,1,1,1,0,1,1,1,0,0,0,0,0,0,0,7
+,Crataegus prunifolia,Tree,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,4
+,Crateagus lavallei,Tree,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,4
+,Fagus sylvatica,Tree,0,1,1,0,1,0,0,0,1,0,0,0,0,0,1,1,6
+,Fagus sylvatica 'Purpurea',Tree,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,4
+,Fraxinus angustifolia 'Raywood',Tree,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,4
+,Fraxinus excelsior,Tree,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,4
+,Malus 'John Downie',Tree,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2
+,Malus tschonoskii,Tree,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,3
+,Platanus x acerifolia,Tree,0,0,0,1,1,0,0,1,0,0,0,0,0,1,1,0,5
+,Populus alba,Tree,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,3
+,Populus nigra,Tree,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,3
+,Populus tremula,Tree,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2
+,Prunus avium,Tree,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,3
+,Prunus avium 'Plena',Tree,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,3
+,Prunus cerasifera 'Nigra',Tree,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,3
+,Prunus serrulata 'Kanzan',Tree,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,3
+,Prunus serrulata 'Taihaku',Tree,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,3
+,Pyrus x calleryana 'Chanticleer',Tree,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2
+,Quercus palustis,Tree,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,4
+,Quercus robur,Tree,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,4
+,Quercus rubra,Tree,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,3
+,Salix alba,Tree,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,4
+,Sorbus aria,Tree,0,0,0,1,1,1,1,0,0,0,0,0,0,1,1,0,6
+,Sorbus aria 'Lutescens',Tree,0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,0,5
+,Sorbus aucuparia,Tree,0,1,0,1,1,0,0,0,1,0,0,0,0,0,1,0,5
+,Sorbus aucuparia 'Cardinal Royal',Tree,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,4
+,Sorbus aucuparia 'Sheerwater Seedling',Tree,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,4
+,Sorbus intermedia,Tree,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,4
+,Tilia cordata,Tree,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1,1,5
+,Tilia cordata 'Green Spire',Tree,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,1,5
+,Tilia platyphylos 'Rubra',Tree,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,4
+,Tilia x europaea 'Pallida',Tree,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,1,5
